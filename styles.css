@@ -21,3 +21,9 @@ body{
         text-align: center;
         font-size: 20px;
     }
+    .main{
+        background-color: rgb(248, 140, 179);
+        padding: 20px;
+        text-align: center;
+        font-size: 20px;
+    }
